@@ -14,3 +14,37 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+
+## 📖 Contents
+- [Resources](#resources)
+    - [Books](#books)
+    - [Videos](#videos)
+    - [Certifications](#certifications)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+## Resources
+
+### Books
+
+### Videos
+
+### Certifications
+
+##
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-Kusto-Query-Language/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+[🔼 Back to top](#awesome-kusto-query-language-kql-)
