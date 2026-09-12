@@ -73,7 +73,7 @@ mindmap
       dynamic objects
 ```
 
-# **`Awesome`** Kusto Query Language ([KQL](https://learn.microsoft.com/en-us/kusto/query/)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Kusto Query](https://github.com/microsoft/kusto-query-language) Language ([KQL](https://learn.microsoft.com/en-us/kusto/query/)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
